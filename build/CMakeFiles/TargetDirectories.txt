@@ -1,0 +1,3 @@
+/home/user/git_project/hw-02/build/CMakeFiles/rebuild_cache.dir
+/home/user/git_project/hw-02/build/CMakeFiles/edit_cache.dir
+/home/user/git_project/hw-02/build/CMakeFiles/hello_world.dir
